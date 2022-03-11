@@ -26,13 +26,24 @@ Tuần 3:
 Lesson 12:Navigator và Routing Flutter cung cấp cho chúng ta lớp routing cơ bản là MaterialPageRoute cùng với hai phương thức Navigator.push() và Navigator.pop()
 ![image](https://user-images.githubusercontent.com/63245743/156925243-be1be1e0-cb5f-43c7-a2f8-e290dbbe56bb.png)
 ![image](https://user-images.githubusercontent.com/63245743/156925253-375a153d-63cb-4273-9693-cb46a79887b2.png)
-Lesson 13:Animation Flutter animation dựa trên các đối tượng animation.
+Lesson 13: Animation Flutter animation dựa trên các đối tượng animation.
 ![image](https://user-images.githubusercontent.com/63245743/156925570-e9843d08-a4a9-40e8-8ade-ae4435a3e5ad.png)
 Lesson 14:Code với native Android
 ![image](https://user-images.githubusercontent.com/63245743/156998555-5c7dd2bc-b2cc-4e94-bb9b-3b9c1d68f1da.png)
 ![image](https://user-images.githubusercontent.com/63245743/157005832-e2ef1a86-56a7-4c62-84bb-b39b3963a2a2.png)
-Lesson 15:Tương tự lesson 14
-Lesson 16
+Lesson 15:Tương tự lesson 14.
+Lesson 16:
 ![image](https://user-images.githubusercontent.com/63245743/157167048-c94eadb2-4811-4b4a-a5fb-8e7ebf80d8b7.png)
 ![image](https://user-images.githubusercontent.com/63245743/157167222-f3b7088a-f731-4f10-9d65-af741f31ed53.png)
 ![image](https://user-images.githubusercontent.com/63245743/157168513-d27bed7e-1f9b-470e-b282-df078df760d5.png)
+Leson 17:Truy cập API REST
+![image](https://user-images.githubusercontent.com/63245743/157807592-d00499af-8cb5-4aea-bb1e-b9b306dfadb3.png)
+
+Flutter cung cấp gói http để tiêu thụ tài nguyên HTTP. http là một thư viện dựa trên Tương lai và sử dụng các tính năng await và async. Nó cung cấp nhiều phương pháp cấp cao và đơn giản hóa việc phát triển các ứng dụng di động dựa trên REST.
+
+Leson 19:Internationalization
+
+Ngày nay, các ứng dụng di động được sử dụng bởi khách hàng từ các quốc gia khác nhau và do đó, các ứng dụng được yêu cầu hiển thị nội dung bằng các ngôn ngữ khác nhau. Việc cho phép ứng dụng hoạt động bằng nhiều ngôn ngữ được gọi là Internationalization (Chuyển đổi ngôn ngữ).
+![image](https://user-images.githubusercontent.com/63245743/157805340-9366fdc3-a987-4ff9-bed7-19eca03f4431.png)
+Lesson 20:
+![image](https://user-images.githubusercontent.com/63245743/157808929-4ec95438-91e6-4e5c-b15f-b0d361072c4b.png)
